@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Rendered video output from testing the skill
+*.mp4
+*.webm
+*.mov
+renders/
+out/

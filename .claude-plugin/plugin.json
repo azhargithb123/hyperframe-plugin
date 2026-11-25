@@ -1,0 +1,19 @@
+{
+  "name": "hyperframe-plugin",
+  "version": "0.1.0",
+  "description": "Create HTML-based videos with HyperFrames: scaffold, compose, animate (GSAP), preview and render to MP4.",
+  "author": {
+    "name": "azhargithb123",
+    "url": "https://github.com/azhargithb123"
+  },
+  "homepage": "https://github.com/azhargithb123/hyperframe-plugin",
+  "repository": "https://github.com/azhargithb123/hyperframe-plugin",
+  "keywords": [
+    "video",
+    "hyperframes",
+    "html",
+    "gsap",
+    "motion-graphics"
+  ],
+  "license": "MIT"
+}

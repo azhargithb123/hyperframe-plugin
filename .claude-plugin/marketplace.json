@@ -1,0 +1,15 @@
+{
+  "name": "hyperframe-local",
+  "description": "Local marketplace for the HyperFrames video plugin.",
+  "owner": {
+    "name": "azhargithb123",
+    "url": "https://github.com/azhargithb123"
+  },
+  "plugins": [
+    {
+      "name": "hyperframe-plugin",
+      "source": "./",
+      "description": "HyperFrames video authoring skill for Claude Code."
+    }
+  ]
+}
